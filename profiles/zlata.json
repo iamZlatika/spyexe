@@ -1,0 +1,24 @@
+{
+  "name": "zlata",
+  "cookies": [
+    {
+      "name": "c_user",
+      "value": "100090224774917",
+      "domain": ".facebook.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "xs",
+      "value": "3%3AG0h9_Ta_YHhB5A%3A2%3A1728977221%3A-1%3A-1%3A%3AAcXmKIk3Z0V79mmEC0anquJ8WYXRMAT062DJyXpnh5w",
+      "domain": ".facebook.com",
+      "path": "/",
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+"facebookUrl": "https://m.facebook.com"
+}
