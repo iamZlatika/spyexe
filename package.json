@@ -11,7 +11,10 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@types/node-fetch": "^2.6.12",
     "dotenv": "^17.1.0",
+    "googleapis": "^152.0.0",
+    "node-fetch": "^2.7.0",
     "playwright": "^1.53.2"
   },
   "devDependencies": {
